@@ -1,38 +1,38 @@
 [
     {
         "id": 1,
-        "title": "Branding",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Responsive Website",
+        "text": "Our creative and expert web designers can develop your dream website based on your idea. A responsive website can make your business more successful.",
         "iconSrc": "/images/svg/linea/linea-basic-target.svg"
     },
     {
         "id": 2,
-        "title": "UX Design",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Web Application",
+        "text": "Design and develop our product using HTML5,javascript,Ajaz,PHP,My SQL and other technologies.work as a developer in scrum team.",
         "iconSrc": "/images/svg/linea/linea-basic-picture-multiple.svg"
     },
     {
         "id": 3,
-        "title": "Strategy",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Mobile Application",
+        "text": "Supported the entire application lifecycle produced the fully functional mobile applications writing clean code.",
         "iconSrc": "/images/svg/linea/linea-basic-picture.svg"
     },
     {
         "id": 4,
-        "title": "E-commerce",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Management System",
+        "text": "We provide management information service to the domestic and international payments, specialist knowledge and analysis.",
         "iconSrc": "/images/svg/linea/linea-ecommerce-cart-plus.svg"
     },
     {
         "id": 5,
-        "title": "Marketing",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Data Analytics",
+        "text": "We provide successfully interpreted data in order to draw conclusion for managerial action and strategy.",
         "iconSrc": "/images/svg/linea/linea-basic-display.svg"
     },
     {
         "id": 6,
-        "title": "Development",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Digital Marketing",
+        "text": "Our digital marketing services are designed to deliver conversions through SEO, SEM, SMO and online reputation.",
         "iconSrc": "/images/svg/linea/linea-basic-gear.svg"
     }
 ]

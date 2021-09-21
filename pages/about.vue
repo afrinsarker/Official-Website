@@ -11,8 +11,6 @@
 
         <AboutTwo class="section-padding-top about-section-padding-bottom-200" />
 
-        <CallToActionVideo />
-
         <AboutFour />
 
         <TestimonialSectionOne :style="{backgroundColor: '#f8faff'}" />
@@ -32,7 +30,6 @@
             SearchPopup: () => import('@/components/SearchPopup'),
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
             AboutTwo: () => import('@/components/AboutTwo'),
-            CallToActionVideo: () => import('@/components/CallToActionVideo'),
             AboutFour: () => import('@/components/AboutFour'),
             TestimonialSectionOne: () => import('@/components/TestimonialSectionOne'),
             CallToActionThree: () => import('@/components/CallToActionThree'),

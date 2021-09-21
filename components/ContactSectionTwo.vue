@@ -19,7 +19,7 @@
                             </div>
                             <div class="info">
                                 <h4 class="title">Our Locations</h4>
-                                <span class="info-text"> 110 W 34th St, NYC. / 67 Madison Avenue.</span>
+                                <span class="info-text"> uttara Dhaka-1230, Bangladesh.</span>
                             </div>
                         </div>
                         <!-- Contact Info Item End -->
@@ -31,7 +31,7 @@
                             </div>
                             <div class="info">
                                 <h4 class="title">Give Us A Call</h4>
-                                <span class="info-text"> (+1) 212-946-2701 / (+1) 212-946-2702</span>
+                                <span class="info-text"> (+88) 0168-080-0810 </span>
                             </div>
                         </div>
                         <!-- Contact Info Item End -->
@@ -44,8 +44,7 @@
                             <div class="info">
                                 <h4 class="title"> Help Desk</h4>
                                 <span class="info-text">
-                                    <a href="mailto:hello@hasthemes.com">hello@hasthemes.com</a>,
-                                    <a href="mailto:sales@hasthemes.com">sales@hasthemes.com</a>
+                                    <a href="mailto:techminate@gmail.com">techminate@gmail.com</a>,
                                 </span>
                             </div>
                         </div>

@@ -7,7 +7,7 @@
                         <!-- Funfact Start -->
                         <div class="col mt-30" data-aos="fade-up">
                             <div class="funfact">
-                                <div class="number"><span class="counter">20</span>+</div>
+                                <div class="number"><span class="counter">5</span>+</div>
                                 <h6 class="text">Years Experience</h6>
                             </div>
                         </div>
@@ -16,7 +16,7 @@
                         <!-- Funfact Start -->
                         <div class="col mt-30" data-aos="fade-up">
                             <div class="funfact">
-                                <div class="number"><span class="counter">15</span></div>
+                                <div class="number"><span class="counter">10</span></div>
                                 <h6 class="text">Active Projects</h6>
                             </div>
                         </div>
@@ -25,7 +25,7 @@
                         <!-- Funfact Start -->
                         <div class="col mt-30" data-aos="fade-up">
                             <div class="funfact">
-                                <div class="number"><span class="counter">130</span></div>
+                                <div class="number"><span class="counter">15</span></div>
                                 <h6 class="text">Projects Done</h6>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                         <!-- Funfact Start -->
                         <div class="col mt-30" data-aos="fade-up">
                             <div class="funfact">
-                                <div class="number"><span class="counter">200</span>+</div>
+                                <div class="number"><span class="counter">10</span>+</div>
                                 <h6 class="text">Satisfied Clients</h6>
                             </div>
                         </div>

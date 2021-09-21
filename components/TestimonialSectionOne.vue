@@ -61,21 +61,21 @@
                         id: 1,
                         text: "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
                         imgSrc: "/images/testimonial/author-1.png",
-                        name: "Uzzal Hossain",
+                        name: "Kamal Hossain",
                         position: "Frontend Developer"
                     },
                     {
                         id: 2,
-                        text: "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
+                        text: "Amazing Work Thuso! It was great to work with such a communicative and positive person throughout this project.",
                         imgSrc: "/images/testimonial/author-2.png",
-                        name: "Tasnim Akter",
+                        name: "Fahima Akter",
                         position: "Marketing Manager"
                     },
                     {
                         id: 3,
-                        text: "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
+                        text: "This was a very insightful experience. From day one to the end, everything was professional and productive. Fantastic job!!!! Must Recommend to All!",
                         imgSrc: "/images/testimonial/author-3.png",
-                        name: "Yeasin Hossain",
+                        name: "Sopnil Sarker",
                         position: "Team Leader"
                     }
                 ]

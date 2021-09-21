@@ -22,7 +22,6 @@
                             <h3 class="title">We’ve worked alongside plenty of brands & startups</h3>
                         </div>
                         <p>Our team of designers and developers are perfectionists who love what they do – we thrive off pushing the boundaries of our clients’ expectations and our own capabilities.</p>
-                        <n-link to="/" class="btn btn-primary btn-hover-secondary mt-30">Get Started</n-link>
                     </div>
                 </div>
             </div>

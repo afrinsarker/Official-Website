@@ -41,9 +41,7 @@
                             </li>
                         </ul>
                         <!-- Agency List End -->
-                        <n-link to="/contact-us" class="btn btn-primary btn-hover-secondary">
-                            Get started for free
-                        </n-link>
+                        
                     </div>
                 </div>
 

@@ -14,10 +14,9 @@
                                 <h2 class="title">Techminate<span class="typing"></span></h2>
                             </vue-typed-js>
                             <div class="desc">
-                                <p>We are an agency located in New York. We think strategy, craft design, develop digital and create motion. To forward your brand and business.</p>
+                                <p>We are an agency located in Bangladesh. We think strategy, craft design, develop digital and create motion. To forward your brand and business.</p>
                             </div>
-                            <n-link to="/about" class="btn btn-primary btn-hover-secondary">Get Started</n-link>
-                            <n-link to="/about" class="btn btn-outline-white btn-hover-primary">Learn More</n-link>
+                             
                         </div>
                     </div>
                 </div>

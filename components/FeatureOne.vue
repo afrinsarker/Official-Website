@@ -16,7 +16,6 @@
                             <div class="desc">
                                 <p>{{ feature.text }}</p>
                             </div>
-                            <n-link to="/about" class="link">Learn More</n-link>
                         </div>
                     </div>
                 </div>
@@ -39,19 +38,19 @@
                     {
                         id: 1,
                         title: "Branding",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+                        text: "Strong brands tell stories and they are always more than a logo. True branding starts at every customer touch point you have.",
                         iconSrc: "/images/svg/linea/linea-basic-target.svg"
                     },
                     {
                         id: 2,
                         title: "UX Design",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+                        text: "Our creative and expert web designers can develop your dream website based on your idea in an affordable price.",
                         iconSrc: "/images/svg/linea/linea-basic-picture-multiple.svg"
                     },
                     {
                         id: 3,
                         title: "Strategy",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+                        text: "Our reviews and analyses pick through all of the most important aspects of e-commerce website builders to make your choice.",
                         iconSrc: "/images/svg/linea/linea-basic-picture.svg"
                     }
                 ]

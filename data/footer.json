@@ -1,8 +1,8 @@
 {
     "footerAboutWidget": {
-        "logoSrc": "/images/logo/footer-logo.png",
-        "telephone": "(+1) 212-946-2701",
-        "email": "hello@hasagency.com",
+        "logoSrc": "/images/logo/logo_white.png",
+        "telephone": "(+88)016-8080-0810",
+        "email": "techminate@gmail.com",
         "fbUrl": "https://www.facebook.com/",
         "twitterUrl": "https://twitter.com/",
         "instagramUrl": "https://www.instagram.com/"
@@ -29,19 +29,19 @@
     "footerLinkTitleTwo": "Products",
     "navListTwo": [
         {
-            "navTitle": "Elementor Guru",
+            "navTitle": "E-commerce App",
             "navUrl": "/" 
         },
         {
-            "navTitle": "WooLentor Pro",
+            "navTitle": "Tenant Management",
             "navUrl": "/" 
         },
         {
-            "navTitle": "Plugins",
+            "navTitle": "TNBC pos",
             "navUrl": "/" 
         },
         {
-            "navTitle": "Page Builder",
+            "navTitle": "TNBC Analytic",
             "navUrl": "/" 
         }
     ],

@@ -15,16 +15,16 @@
                         <div class="row mtn-30">
                             <div class="col-md-5 col-sm-6 col-12 mt-30" data-aos="fade-up">
                                 <div class="about-funfact">
-                                    <div class="number"><span class="counter">110</span>+</div>
+                                    <div class="number"><span class="counter">10</span>+</div>
                                     <h6 class="text">Happy Clients</h6>
                                     <p>We help our clients increase profits by increasing their visibility online.</p>
                                 </div>
                             </div>
                             <div class="col-md-5 col-sm-6 col-12 mt-30" data-aos="fade-up">
                                 <div class="about-funfact">
-                                    <div class="number"><span class="counter">130</span>+</div>
+                                    <div class="number"><span class="counter">15</span>+</div>
                                     <h6 class="text">Completed projects</h6>
-                                    <p>We help our clients increase profits by increasing their visibility online.</p>
+                                    <p>We are created lots of projects like E-commerce shop,System management,Tenentment systenm etc.</p>
                                 </div>
                             </div>
                         </div>
